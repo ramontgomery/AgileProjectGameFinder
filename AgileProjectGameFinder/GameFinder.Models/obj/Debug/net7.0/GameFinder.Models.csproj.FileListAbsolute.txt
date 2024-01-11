@@ -1,0 +1,11 @@
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\bin\Debug\net7.0\GameFinder.Models.deps.json
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\bin\Debug\net7.0\GameFinder.Models.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\bin\Debug\net7.0\GameFinder.Models.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\refint\GameFinder.Models.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\GameFinder.Models.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Models\obj\Debug\net7.0\ref\GameFinder.Models.dll

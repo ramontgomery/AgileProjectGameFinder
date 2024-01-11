@@ -1,0 +1,4 @@
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.csproj.CoreCompileInputs.cache

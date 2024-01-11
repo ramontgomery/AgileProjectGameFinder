@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TO72X8qp4ecNKDQeYk/zvlgpgRun99QpNaTKyPvM/6pqAILJWuZTkgeTKuMtkUK5UM+/vnKSIq6HeGZ4D3wieg==",
+  "dgSpecHash": "zqS4zH2l6TcnpLfcOI1MmPc69i0MB7qydrghkKc5K0GSn3eIR4cL6V3mZEpj2giK6nJsuUo9YEBP0wpUTetd/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ryana\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\microsoft.aspnetcore.identity.ui.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
