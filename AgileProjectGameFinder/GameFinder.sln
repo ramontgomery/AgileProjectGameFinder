@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFinder.WebApi", "GameFinder.WebApi\GameFinder.WebApi.csproj", "{46D19E2A-6238-4B31-BCF4-5C8CC71B08BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFinder.Data", "GameFinder.Data\GameFinder.Data.csproj", "{B9BC0863-B3DA-41D6-93C4-603E417C9B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFinder.Models", "GameFinder.Models\GameFinder.Models.csproj", "{07BB0514-3B6A-46E6-9C26-DC4C9EBBB7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFinder.Services", "GameFinder.Services\GameFinder.Services.csproj", "{B5D36F42-825A-4E28-9FBE-DF4F9C233D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D19E2A-6238-4B31-BCF4-5C8CC71B08BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D19E2A-6238-4B31-BCF4-5C8CC71B08BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D19E2A-6238-4B31-BCF4-5C8CC71B08BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D19E2A-6238-4B31-BCF4-5C8CC71B08BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BC0863-B3DA-41D6-93C4-603E417C9B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC0863-B3DA-41D6-93C4-603E417C9B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC0863-B3DA-41D6-93C4-603E417C9B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC0863-B3DA-41D6-93C4-603E417C9B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BB0514-3B6A-46E6-9C26-DC4C9EBBB7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BB0514-3B6A-46E6-9C26-DC4C9EBBB7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BB0514-3B6A-46E6-9C26-DC4C9EBBB7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BB0514-3B6A-46E6-9C26-DC4C9EBBB7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D36F42-825A-4E28-9FBE-DF4F9C233D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D36F42-825A-4E28-9FBE-DF4F9C233D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D36F42-825A-4E28-9FBE-DF4F9C233D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D36F42-825A-4E28-9FBE-DF4F9C233D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
