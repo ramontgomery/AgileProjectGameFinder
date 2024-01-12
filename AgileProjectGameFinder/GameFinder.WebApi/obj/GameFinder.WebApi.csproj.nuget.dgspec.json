@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj": {}
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
         "projectName": "GameFinder.Data",
-        "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
-        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +37,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj",
         "projectName": "GameFinder.Models",
-        "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj",
-        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -106,21 +120,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj",
         "projectName": "GameFinder.Services",
-        "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj",
-        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -132,11 +146,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
-                "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj"
               },
-              "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
-                "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj"
               }
             }
           }
@@ -172,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj",
         "projectName": "GameFinder.WebApi",
-        "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj",
-        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.WebApi\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.WebApi\\GameFinder.WebApi.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -198,14 +212,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
-                "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj"
               },
-              "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
-                "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Models\\GameFinder.Models.csproj"
               },
-              "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj": {
-                "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Services\\GameFinder.Services.csproj"
               }
             }
           }
@@ -227,6 +241,16 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -252,7 +276,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
