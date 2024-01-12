@@ -2,3 +2,17 @@ C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects
 C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfoInputs.cache
 C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfo.cs
 C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\BlueBadgeProjects\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.AssemblyInfo.cs
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\bin\Debug\net7.0\GameFinder.Data.deps.json
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\bin\Debug\net7.0\GameFinder.Data.runtimeconfig.json
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\bin\Debug\net7.0\GameFinder.Data.dll
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\bin\Debug\net7.0\GameFinder.Data.pdb
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.dll
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\refint\GameFinder.Data.dll
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.pdb
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\GameFinder.Data.genruntimeconfig.cache
+C:\ElevenFiftyBlueBadge_New\AgileGroupExercise\AgileProjectGameFinder\AgileProjectGameFinder\GameFinder.Data\obj\Debug\net7.0\ref\GameFinder.Data.dll
