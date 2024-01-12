@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GameFinder.Data.Enums;
 
 namespace GameFinder.Data.Entities
 {
@@ -14,5 +15,6 @@ namespace GameFinder.Data.Entities
         public Genre Genre { get; set; }
         public Ratings Rating { get; set; }
         public DateTime DateReleased { get; set; }
+        
     }
 }

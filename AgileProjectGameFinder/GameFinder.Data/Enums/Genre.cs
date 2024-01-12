@@ -2,7 +2,11 @@ namespace GameFinder.Data.Enums
 {
     public enum Genre
     {
-                Horror = 1,
+
+
+
+        Horror = 1,
+
         Indie,
         Sandbox,
         Shooter,
