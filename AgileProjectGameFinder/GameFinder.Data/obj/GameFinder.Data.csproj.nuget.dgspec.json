@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {}
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
         "projectName": "GameFinder.Data",
-        "projectPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
-        "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryana\\OneDrive\\Documents\\ElevenFiftyProjects_177_10.6\\BlueBadgeProjects\\AgileProjectGameFinder\\GameFinder.Data\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\GameFinder.Data.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\AgileProjectGameFinder\\AgileProjectGameFinder\\GameFinder.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -42,6 +42,13 @@
               "target": "Package",
               "version": "[7.0.9, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+>>>>>>> f39af17b5a2df6ce07530f2d1d8db53d3be27530
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.9, )"
@@ -63,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
